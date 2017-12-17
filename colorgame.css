@@ -12,8 +12,13 @@ h1{
 }
 
 .square {
+  background: rgb(255, 0, 200);
   width: 30%;
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
+}
+
+span{
+	color: white;
 }
